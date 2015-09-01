@@ -1,6 +1,11 @@
+ï»¿/* æ¼¢å­— */
 # test_20150901
 
-## ƒƒ“ƒo[
+## ãƒ¡ãƒ³ãƒãƒ¼
 * testmember
 * testmember2
 * testmember3
+
+##ã‚°ãƒ«ãƒ¼ãƒ—
+*group1
+*group2
