@@ -1,4 +1,6 @@
 # test_20150901
 
-## ãƒ¡ãƒ³ãƒãƒ¼
+## ƒƒ“ƒo[
 * testmember
+* testmember2
+* testmember3
